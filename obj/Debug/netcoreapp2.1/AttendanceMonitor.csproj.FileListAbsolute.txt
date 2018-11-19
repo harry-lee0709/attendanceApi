@@ -1,0 +1,13 @@
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\bin\Debug\netcoreapp2.1\AttendanceMonitor.deps.json
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\bin\Debug\netcoreapp2.1\AttendanceMonitor.runtimeconfig.json
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\bin\Debug\netcoreapp2.1\AttendanceMonitor.runtimeconfig.dev.json
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\bin\Debug\netcoreapp2.1\AttendanceMonitor.dll
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.RazorAssemblyInfo.cache
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.RazorAssemblyInfo.cs
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.AssemblyInfo.cs
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.RazorTargetAssemblyInfo.cache
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\bin\Debug\netcoreapp2.1\AttendanceMonitor.pdb
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.dll
+C:\Users\harry\source\repos\AttendanceMonitor\AttendanceMonitor\obj\Debug\netcoreapp2.1\AttendanceMonitor.pdb
